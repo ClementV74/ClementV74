@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [home assistant project](https://github.com/ClementVABRE/homeassistant)
 
-- 🌱 I’m currently learning **cybersecurity on root me**
+- 🌱 I’m currently learning **cybersecurity on [root me](https://www.root-me.org/Fee-Gaffe?inc=info&lang=fr)** 
 
 - 👯 I make [API project](https://github.com/ClementVABRE/API_Premium_Project2)
 
