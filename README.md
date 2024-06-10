@@ -3,7 +3,7 @@
 <h1 align="center">Salut je suis Clement alias Fée Gaffe</h1>
 <h3 align="center">Passionné d’informatique 🤩</h3>
 
-![Your Image Alt Text](https://github.com/Fee-Gaffe/Fee-Gaffe/raw/main/banniereclement.png)
+
 
 - 👨‍💻 mon site web [feegaffe.fr](feegaffe.fr)
 
