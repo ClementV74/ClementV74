@@ -1,13 +1,13 @@
 
 
-<h1 align="center">Salut je suis Clement alias Fée Gaffe</h1>
+<h1 align="center">Salut je suis Clement</h1>
 <h3 align="center">Passionné d’informatique 🤩</h3>
 
 
 
 - 👨‍💻 mon site web [feegaffe.fr](feegaffe.fr)
 
-- 📫 pour me contacter **contact@feegaffe.fr**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
