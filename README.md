@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
 </p>
-- 👨‍💻 mon site web [vabre.ch](https://vabre.ch)
+- 👨‍💻 mon site web (https://vabre.ch)
 - 🌍 Langues : Français (natif), Anglais (B2), Espagnol (A2), Japonais (A1)  
 
 
