@@ -1,12 +1,12 @@
 <h1 align="center">Salut, je suis Clément</h1>
 <h3 align="center">Passionné d’informatique 🤩 et fan d'animés 🎌</h3>
-
-- 👨‍💻 Mon site web : [vabre.ch](https://vabre.ch)  
-- 🌍 Langues : Français (natif), Anglais (B2), Espagnol (A2), Japonais (A1)  
-
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
 </p>
+- 👨‍💻 Mon site web : [vabre.ch](https://vabre.ch)  
+- 🌍 Langues : Français (natif), Anglais (B2), Espagnol (A2), Japonais (A1)  
+
+
 
 <h3 align="left">🛠️ Languages et Outils :</h3>
 <p align="left">
