@@ -1,5 +1,5 @@
 <h1 align="center">Salut, je suis Clément</h1>
-<h3 align="center">Passionné d’informatique 🤩 et fan d'animés 🎌</h3>
+<h3 align="center">Passionné d’informatique 🤩</h3>
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
 </p>
