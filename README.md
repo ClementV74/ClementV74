@@ -42,8 +42,9 @@
 
 ## 📊 GitHub Stats:
 <div align="center">
+   <img src="https://nirzak-streak-stats.vercel.app/?user=ClementV74&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=ClementV74&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ClementV74&theme=dark&hide_border=false" alt="GitHub Streak"/><br/>
+ 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementV74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
