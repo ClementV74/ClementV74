@@ -13,8 +13,9 @@
 ## 🌍 Langues :
 - **Français** (natif)
 - **Anglais** (B2)
-- **Espagnol** (A2)
 - **Japonais** (A2)
+- **Espagnol** (A2)
+
 
 ---
 
