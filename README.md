@@ -14,7 +14,7 @@
 - **Français** (natif)
 - **Anglais** (B2)
 - **Espagnol** (A2)
-- **Japonais** (A1)
+- **Japonais** (A2)
 
 ---
 
