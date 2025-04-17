@@ -58,5 +58,3 @@
 </p>
 
 ---
-
-![views](https://img.shields.io/badge/dynamic/json?label=Views&query=value&url=https://api.countapi.xyz/hit/clementv74/README)
