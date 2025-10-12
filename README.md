@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
 </p>
 
-<p align="center">
-  <a href="https://vabre.ch" target="_blank">👨‍💻 Mon site web</a>
-</p>
+
 
 ---
 
