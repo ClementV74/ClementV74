@@ -1,5 +1,7 @@
 <h1 align="center">Salut, je suis Clément</h1>
 
+<h3  align="center"> Etudiant à EPITA en ING1 </h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
 </p>
