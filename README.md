@@ -13,7 +13,7 @@
 ## 🌍 Langues :
 - **Français** (natif)
 - **Anglais** (B2)
-- **Japonais** (A1-A2)
+- **Japonais** (A1)
 - **Espagnol** (A2)
 
 
