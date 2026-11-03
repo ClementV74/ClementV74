@@ -33,27 +33,6 @@ langues:  [🇫🇷 Natif, 🇬🇧 B2, 🇪🇸 A2, 🇯🇵 A1]
   <img src="https://skillicons.dev/icons?i=dotnet,unity,mysql,vercel,linux&theme=dark" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ClementV74&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&locale=fr&custom_title=Stats%20de%20Cl%C3%A9ment" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementV74&theme=tokyonight&hide_border=true&layout=compact&locale=fr&custom_title=Langages%20les%20plus%20utilis%C3%A9s" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ClementV74&theme=tokyonight&hide_border=true&locale=fr" />
-</p>
-
----
-
-### 📈 Activité
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ClementV74&theme=tokyo-night&hide_border=true&area=true&custom_title=Activit%C3%A9%20de%20Cl%C3%A9ment" width="100%"/>
-</p>
-
 <!-- Pied de page -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
