@@ -1,46 +1,76 @@
-<h1 align="center">Salut, je suis Clément</h1>
-
-<h3  align="center"> Etudiant  </h3>
-
+<!-- Bannière -->
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cl%C3%A9ment&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=%C3%89tudiant%20ing%C3%A9nieur%20%C2%B7%20EPITA&descAlignY=55&descSize=20" width="100%"/>
 </p>
 
-
-
----
-
-## 🌍 Langues :
-- **Français** (natif)
-- **Anglais** (B2)
-- **Japonais** (A1)
-- **Espagnol** (A2)
-
-
----
-
-## 💻 Tech Stack:
+<!-- Texte animé -->
 <p align="center">
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <a href="https://github.com/ClementV74">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Salut%2C+je+suis+Cl%C3%A9ment+%F0%9F%91%8B;%C3%89tudiant+ing%C3%A9nieur+en+ING2+%40+EPITA;Majeure+TCOM+%E2%80%94+T%C3%A9l%C3%A9communications;Toujours+en+train+de+coder+%F0%9F%9A%80" alt="Typing SVG"/>
+  </a>
 </p>
 
 ---
 
-## 📊 GitHub Stats:
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementV74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ClementV74&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
- 
-</div>
+### 🧑‍💻 À propos
 
+```yaml
+nom:      Clément
+école:    EPITA — Cycle ingénieur (ING2)
+majeure:  TCOM — Télécommunications
+cherche:  [stage / alternance en ...]
+langues:  [🇫🇷 Natif, 🇬🇧 B2, 🇪🇸 A2, 🇯🇵 A1]
+```
 
 ---
+
+### 🚀 Projets phares
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>📡 <a href="lien">Nom du projet</a></h4>
+      <p>Courte description du projet.</p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+    </td>
+    <td width="50%">
+      <h4>🎮 <a href="lien">Nom du projet</a></h4>
+      <p>Courte description du projet.</p>
+      <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <b>Langages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php,swift&theme=dark" />
+</p>
+
+<p align="center">
+  <b>Frameworks, outils & BDD</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=dotnet,unity,mysql,vercel,linux&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ClementV74&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClementV74&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ClementV74&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<!-- Pied de page -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+</p>
